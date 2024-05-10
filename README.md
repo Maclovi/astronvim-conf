@@ -1,4 +1,4 @@
-[https://i.postimg.cc/fy3tnGFt/gruvbox-themes.png](https://postimg.cc/7Ch9Fj7M)
+[Screenshot-from-2024-05-10-14-01-04.png](https://postimg.cc/7Ch9Fj7M)
 
 # AstroNvim Template
 
