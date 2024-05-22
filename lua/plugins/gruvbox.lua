@@ -5,7 +5,7 @@ return {
   opts = {
     transparent_mode = true,
     overrides = {
-      StatusLine = { bg = "#242424", fg = "#f2e5bc" },
+      StatusLine = { fg = "#004b49" },
     },
   },
 }
